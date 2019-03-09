@@ -1,6 +1,5 @@
-Karlos Abellanosa
 
-# 3D Planetary Exhibit 
+# School Project 3D Planetary Exhibit 
 
 ## Current controls: 
 W - forward
